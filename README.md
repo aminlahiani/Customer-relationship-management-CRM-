@@ -50,7 +50,7 @@
 - [numero telephone](#)
 - [Email](#)
 - [password](#)
-
+- [position-google-maps:latitude / longitude](#)
 ## 👨‍🦲 Pharmacie :
 - [nom](#)
 - [Prenom](#)
@@ -58,13 +58,14 @@
 - [Email](#)
 - [secteur](#)
 - [type:jour/nuit](#)
-
+- [position-google-maps:latitude / longitude](#)
 ## 👨‍🦲 Medcine:
 - [nom](#)
 - [Prenom](#)
 - [numero telephone](#)
 - [Email](#)
 - [secteur](#)
+- [position-google-maps:latitude / longitude](#)
 
 
 ## 👨‍🦲 Product:
@@ -73,6 +74,8 @@
 - [prix pharmacie](#)
 - [Email](#)
 - [secteur](#)
+
+
 
 
 
