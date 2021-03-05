@@ -3,12 +3,19 @@
 ### Users
 
 
-## 🤴 Admin :
 
-- [Raison Sosial](#)
-- [password](#)
-- [logo](#)
-- [Abonnement[...]](#)
+
+ ## 🤴 Admin        👨‍🦳 Gerant  👨‍🦱 Superviseur 👨‍🦲 Delegue 
+| Admin      | Gerant           |  Superviseur  |Delegue   |
+| -----------| -----------------|---------------|----------|
+| Nom        | Nom              |Nom            | Nom      |
+|Prenom      |Prenom            |Prenom         | Prenom   |
+|Email       |Email             |Email          | Email    |
+|Password    |Password          |Password       | Password |
+|Abonnemet...|Superviseurs...   |Delegues....   |--------- |
+|------------|Delegues...       |-------- ----- | -------- |
+
+ 
 
 ## 📋 Abonnement :
 - [Raison Sosial](#)
@@ -16,7 +23,12 @@
 - [Email](#)
 - [date debut](#)
 - [date  fin](#)
+## 🤴 Admin :
 
+- [Raison Sosial](#)     
+- [password](#)          
+- [logo](#)
+- [Abonnement[...]](#)
 ## 👨‍🦳 Gerant :
 - [nom](#)
 - [Prenom](#)
