@@ -73,7 +73,7 @@
 - [Prix grosiste](#)
 - [prix pharmacie](#)
 - [Email](#)
-- [secteur](#)
+- [etat](#)
 
 
 
