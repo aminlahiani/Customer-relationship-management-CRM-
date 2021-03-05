@@ -34,13 +34,39 @@
 - [password](#)
 - [Delegue[....]](#)
 
-## 👨‍🦳 Delegue :
+## 👨‍🦲 Delegue :
 - [nom](#)
 - [Prenom](#)
 - [numero telephone](#)
 - [Email](#)
 - [password](#)
-- [Delegue[....]](#)
+-----------------------
+
+# Client 
+
+## 👨‍🦲 Grossiste :
+- [nom](#)
+- [Prenom](#)
+- [numero telephone](#)
+- [Email](#)
+- [password](#)
+
+## 👨‍🦲 Pharmacie :
+- [nom](#)
+- [Prenom](#)
+- [numero telephone](#)
+- [Email](#)
+-[secteur](#)
+
+## 👨‍🦲 Medcine:
+- [nom](#)
+- [Prenom](#)
+- [numero telephone](#)
+- [Email](#)
+-[secteur](#)
+
+
+
 
 
 
