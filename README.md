@@ -25,7 +25,22 @@
 - [password](#)
 - [Superviseur[....]](#)
 - [Delegue[....]](#)
-        - Delegue[...]
+
+## 👨‍🦱 Superviseur :
+- [nom](#)
+- [Prenom](#)
+- [numero telephone](#)
+- [Email](#)
+- [password](#)
+- [Delegue[....]](#)
+
+## 👨‍🦳 Delegue :
+- [nom](#)
+- [Prenom](#)
+- [numero telephone](#)
+- [Email](#)
+- [password](#)
+- [Delegue[....]](#)
 
 
 
