@@ -10,6 +10,7 @@
 | -----------| -----------------|---------------|----------|
 | Nom        | Nom              |Nom            | Nom      |
 |Prenom      |Prenom            |Prenom         | Prenom   |
+|telephone    |telephone         |thelephone         | Prenom   |
 |Email       |Email             |Email          | Email    |
 |Password    |Password          |Password       | Password |
 |Abonnemet...|Superviseurs...   |Delegues....   |--------- |
