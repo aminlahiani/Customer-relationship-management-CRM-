@@ -1,1 +1,7 @@
-# Customer-relationship-management-CRM-
+# Customer-relationship-management-CRM
+
+### Users
+
+## Admin
+
+  `npm install`
