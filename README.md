@@ -24,6 +24,8 @@
 - [Email](#)
 - [date debut](#)
 - [date  fin](#)
+- [etat](#)
+- [numbre de users](#)
 
 
 # Client 👨🏽‍👩🏽‍👧🏽‍👦🏽
