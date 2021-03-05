@@ -44,14 +44,14 @@
 
 # Client 
 
-## 👨‍🦲 Grossiste :
+## 👨‍👨‍👦‍👦 Grossiste :
 - [nom](#)
 - [Prenom](#)
 - [numero telephone](#)
 - [Email](#)
 - [password](#)
 - [position-google-maps:latitude / longitude](#)
-## 👨‍🦲 Pharmacie :
+## 💊 Pharmacie :
 - [nom](#)
 - [Prenom](#)
 - [numero telephone](#)
@@ -59,7 +59,7 @@
 - [secteur](#)
 - [type:jour/nuit](#)
 - [position-google-maps:latitude / longitude](#)
-## 👨‍🦲 Medcine:
+## 👨‍⚕️ Medcine:
 - [nom](#)
 - [Prenom](#)
 - [numero telephone](#)
@@ -68,11 +68,10 @@
 - [position-google-maps:latitude / longitude](#)
 
 
-## 👨‍🦲 Product:
+## 🛍️ Product:
 - [nom](#)
 - [Prix grosiste](#)
 - [prix pharmacie](#)
-- [Email](#)
 - [etat](#)
 
 
