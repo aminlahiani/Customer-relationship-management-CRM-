@@ -25,9 +25,19 @@
 - [date  fin](#)
 
 
-### Client 👨🏽‍👩🏽‍👧🏽‍👦🏽
+# Client 👨🏽‍👩🏽‍👧🏽‍👦🏽
 
-## 👨‍👨‍👦‍👦 Grossiste  💊 Pharmacie  👨‍⚕️ medecin 
+## 👨‍👨‍👦‍👦 Grossiste  💊 Pharmacie  👨‍⚕️ Medecin 
+
+| Grossiste  | Pharmacie        |  Medecin      |
+| -----------| -----------------|---------------|
+| Nom        | Nom              |Nom            |
+|Prenom      |Prenom            |Prenom         |
+|Email       |Email             |Email          |
+|adresse     |adress            |adresse        |
+|------      |type:jour/nuit    |-------        |
+|latitude    |latitude          |latitude       |
+|longitude   |longitude         |longitude      |
 
 
 ## 🤴 Admin :
