@@ -6,7 +6,7 @@
 
 ## Contents
 
-- [Requirements]
+- [Requirements](#-building-your-first-react-native-app)
 - [Building your first React Native app](#-building-your-first-react-native-app)
 - [Documentation](#-documentation)
 - [Upgrading](#-upgrading)
