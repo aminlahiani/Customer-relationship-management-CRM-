@@ -56,17 +56,23 @@
 - [Prenom](#)
 - [numero telephone](#)
 - [Email](#)
--[secteur](#)
+- [secteur](#)
+- [type:jour/nuit](#)
 
 ## 👨‍🦲 Medcine:
 - [nom](#)
 - [Prenom](#)
 - [numero telephone](#)
 - [Email](#)
--[secteur](#)
+- [secteur](#)
 
 
-
+## 👨‍🦲 Product:
+- [nom](#)
+- [Prix grosiste](#)
+- [prix pharmacie](#)
+- [Email](#)
+- [secteur](#)
 
 
 
