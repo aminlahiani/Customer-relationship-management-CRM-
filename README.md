@@ -44,7 +44,12 @@
 |latitude    |latitude          |latitude       |
 |longitude   |longitude         |longitude      |
 
-
+## 🛍️ Product:
+- [nom](#)
+- [image](#)
+- [Prix grosiste](#)
+- [prix pharmacie](#)
+- [etat](#)
 ## 🤴 Admin :
 
 - [Raison Sosial](#)     
