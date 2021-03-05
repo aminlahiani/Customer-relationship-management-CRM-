@@ -4,8 +4,6 @@
 
 ## Admin
 
-## Contents
-
 - [Requirements](#)
 - [Building your first React Native app](#)
 - [Documentation](#)
