@@ -19,7 +19,9 @@
  ---------------------------
 
 # 📋 Abonnement :
+- [Registre de commerce](#)
 - [Raison Sosial](#)
+- [logo](#)
 - [numero telephone](#)
 - [Email](#)
 - [date debut](#)
