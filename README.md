@@ -27,7 +27,8 @@
 - [date debut](#)
 - [date  fin](#)
 - [etat](#)
-- [numbre de users](#)
+- [GerantId](#)
+- [nombre d'utilisateur](#)
 
 
 # Client 👨🏽‍👩🏽‍👧🏽‍👦🏽
