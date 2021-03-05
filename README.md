@@ -17,7 +17,7 @@
 |------------|Delegues...       |-------- ----- | -------- |
 
  ---------------------------
-<h1 style="color:Salmon;">📋 Abonnementt</h1>.
+<h1 style="color:blue">📋 Abonnementt</h1>.
 
 - [Registre de commerce](#)
 - [Raison Sosial](#)
