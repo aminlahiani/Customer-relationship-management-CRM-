@@ -15,14 +15,21 @@
 |Abonnemet...|Superviseurs...   |Delegues....   |--------- |
 |------------|Delegues...       |-------- ----- | -------- |
 
- 
+ ---------------------------
 
-## 📋 Abonnement :
+# 📋 Abonnement :
 - [Raison Sosial](#)
 - [numero telephone](#)
 - [Email](#)
 - [date debut](#)
 - [date  fin](#)
+
+
+### Client 👨🏽‍👩🏽‍👧🏽‍👦🏽
+
+## 👨‍👨‍👦‍👦 Grossiste  💊 Pharmacie  👨‍⚕️ medecin 
+
+
 ## 🤴 Admin :
 
 - [Raison Sosial](#)     
@@ -71,7 +78,7 @@
 - [secteur](#)
 - [type:jour/nuit](#)
 - [position-google-maps:latitude / longitude](#)
-## 👨‍⚕️ Medcine:
+## 👨‍⚕️ medecin:
 - [nom](#)
 - [Prenom](#)
 - [numero telephone](#)
