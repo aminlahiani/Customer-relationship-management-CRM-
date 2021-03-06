@@ -88,6 +88,65 @@
 
 -----------------------------------
 
+
+## 👨‍👨‍👦‍👦 pharmacie  
+
+| Grossiste                | pharmacien       |prepateur principal id |Personel   |
+| -------------------------|------------------|-----------------------|-----------|
+| Registre de commerce     | Nom              |Nom                    |Nom        |
+| Raison Sosial            |Prenom            |Prenom                 |prenom     |
+|Email                     |Email             |Email                  |Email      |
+|adresse                   |telephone         |telephone              |telephone  |
+|pharmacien id             |----------------- |-----------------------|-----------|
+|prepateur principal id    |------------------|-----------------------|-----------|
+|Personel id               |------------------|-----------------------|-----------|
+|latitude                  |------------------|-----------------------|-----------|
+|longitude                 |------------------|-----------------------|-----------|
+|--------------------------|------------------|-----------------------|-----------|
+
+- [Registre de commerce](#)
+- [Raison Sosial](#)
+- [Email](#)
+- [adresse](#)
+- [pharmacien id](#)
+- [prepateur principal id](#)
+- [Personel](#)
+- [latitude](#)
+- [longitude](#)
+
+## 👨‍👨‍👦‍👦 pharmacien / prepateur /  autre Grossiste
+- [nom ](#)
+- [prenom](#)
+- [Email](#)
+- [numero phone](#)
+
+## 👨‍👨‍👦‍👦 Medecin  
+
+| Medecin                  | pharmacien       |prepateur principal id |Personel   |
+| -------------------------|------------------|-----------------------|-----------|
+|medcin id                 | Nom              |Nom                    |Nom        |
+| Email                    |Prenom            |Prenom                 |prenom     |
+|adresse                   |Email             |Email                  |Email      |
+|adresse                   |telephone         |telephone              |telephone  |
+|secritaireid id           |----------------- |-----------------------|-----------|
+|latitude                  |------------------|-----------------------|-----------|
+|longitude                 |------------------|-----------------------|-----------|
+|--------------------------|------------------|-----------------------|-----------|
+
+- [medcinid](#)
+- [Email](#)
+- [adresse](#)
+- [secritaireid]
+- [latitude](#)
+- [longitude](#)
+
+## 👨‍👨‍👦‍👦 Medecin / secritaire 
+- [etablisement de travai :  etablicement de travai(hopital)](#)
+- [nom ](#)
+- [prenom](#)
+- [Email](#)
+- [numero phone](#)
+- [specialité](#)
 ---------------------------------------
 ## visite
 - type visite (visite chez doctor)
