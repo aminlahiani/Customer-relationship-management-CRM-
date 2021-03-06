@@ -57,15 +57,17 @@
 
 ### 👨‍👨‍👦‍👦 Grossiste 
 
-| Grossiste  | Pharmacie        |  Medecin      |
-| -----------| -----------------|---------------|
-| registre   | Nom              |Nom            |
-|            |Prenom            |Prenom         |
-|Email       |Email             |Email          |
-|adresse     |adress            |adresse        |
-|------      |type:jour/nuit    |-------        |
-|latitude    |latitude          |latitude       |
-|longitude   |longitude         |longitude      |
+| Grossiste                | responsble achat |  responsble achat     |gerant     |
+| -------------------------|------------------|-----------------------|-----------|
+| Registre de commerce     | Nom              |Nom                    |Nom        |
+| Raison Sosial            |Prenom            |Prenom                 |prenom     |
+|Email                     |Email             |Email                  |Email      |
+|adresse                   |telephone         |telephone              |telephone  |
+|responsble achat id       |----------------- |-----------------------|-----------|
+|responsble de payment id  |------------------|-----------------------|-----------|
+|gerant id                 |------------------|-----------------------|-----------|
+|latitude                  |------------------|-----------------------|-----------|
+|longitude                 |------------------|-----------------------|-----------|
 
 
 - [Registre de commerce](#)
