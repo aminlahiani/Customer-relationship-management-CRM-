@@ -50,7 +50,43 @@
 
 --------------------------------------------------------
 
+# Client 👨🏽‍👩🏽‍👧🏽‍👦🏽
 
+## 👨‍👨‍👦‍👦 Grossiste  💊 Pharmacie  👨‍⚕️ Medecin 
+
+
+### 👨‍👨‍👦‍👦 Grossiste 
+
+| Grossiste  | Pharmacie        |  Medecin      |
+| -----------| -----------------|---------------|
+| registre   | Nom              |Nom            |
+|            |Prenom            |Prenom         |
+|Email       |Email             |Email          |
+|adresse     |adress            |adresse        |
+|------      |type:jour/nuit    |-------        |
+|latitude    |latitude          |latitude       |
+|longitude   |longitude         |longitude      |
+
+
+- [Registre de commerce](#)
+- [Raison Sosial](#)
+- [Email](#)
+- [adresse](#)
+- [responsble achat id](#)
+- [responsble de payment id](#)
+- [gerant id](#)
+- [latitude](#)
+- [longitude](#)
+
+## 👨‍👨‍👦‍👦 responsble achat  / payment / gerant Grossiste
+- [nom ](#)
+- [prenom](#)
+- [Email](#)
+- [numero phone](#)
+
+-----------------------------------
+
+---------------------------------------
 ## visite
 - type visite (visite chez doctor)
 - product[..]
