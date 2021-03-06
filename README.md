@@ -148,6 +148,19 @@
 - [Email](#)
 - [numero phone](#)
 - [specialité](#)
+
+
+----------------------------
+
+## 🛍️ Product:
+- [nom](#)
+- [image](#)
+- [Prix grosiste](#)
+- [prix pharmacie](#)
+- [fiche-de-produi:pdf](#)
+- [etat](#)
+
+----------------------------
 ---------------------------------------
 ## visite
 - type visite (visite chez doctor)
@@ -262,17 +275,7 @@ chef voir all produit   => superviseur =>  deligue
 - [Email](#)
 - [numero phone](#)
 - [specialité](#)
-----------------------------
 
-## 🛍️ Product:
-- [nom](#)
-- [image](#)
-- [Prix grosiste](#)
-- [prix pharmacie](#)
-- [fiche-de-produi:pdf](#)
-- [etat](#)
-
-----------------------------
 ## visite :
 
 ----------------------------
