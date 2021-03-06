@@ -6,25 +6,25 @@
  ## 🤴 Admin   👨‍🦳 Directeur marketing      👨‍🦳 chef produit   👨‍🦱 Superviseur 👨‍🦲 Delegue    👨‍🦲  visiteur medical
 
 
-| Admin      |  Directeur marketing | chef produit       |  Superviseur       |Delegue       | visiteur medical |
-| -----------| ---------------------|--------------------|--------------------|--------------|-------------------
-| Nom        | Nom                  |Nom                 |Nom                 | Nom          |Nom               |
-|Prenom      |Prenom                |Prenom              | Prenom             |Prenom        |Prenom            |
-|Email       |Email                 |Email               | Email              |Email         |Email             |
-|telephone   |telephone             |thelephone          |thelephone          |thelephone    |thelephone        |
-|Password    |Password              |Password            | Password           |Password      |Password          |
-|------------|----------------------|--------------------|--------------------|--------------|------------------|
-|Abonnemet...|Chef de Produit...*   |Superviseur...*     |Delegue....*        |--------------|------------------|
-|------------|Superviseur...*       |Delegue....*        |Visiteur medical...*|--------------|------------------|
-|------------|Delegue...*           |Visiteur medical...*| ------------------ |--------------|------------------|
-|------------|Visiteur medical ...* |-------....*--      | ----------------   |--------------|------------------|
-|------------|----------------------|--------------------|--------------------|--------------|------------------|
-|------------|Grossiste             |Grossiste           | Grossiste          |Grossiste     |Grossiste         |
-|------------|Pharmacie             |Pharmacie           |Pharmacie           | Pharmacie    |Pharmacie         |
-|------------|Medecin               | Medecin            |Medecin             |Medecin       |Medecin           |
-|------------|----------------------|--------------------|--------------------|--------------|------------------|
-|------------|produit               |produit             |produit             |produit       |produit           |
-|------------|----------------------|--------------------|--------------------|--------------|------------------|
+| Admin      |  Directeur marketing | chef produit        |  Superviseur       |Delegue       | visiteur medical |
+| -----------| ---------------------|-------------------- |--------------------|--------------|-------------------
+| Nom        | Nom                  |Nom                  |Nom                 | Nom          |Nom               |
+|Prenom      |Prenom                |Prenom               | Prenom             |Prenom        |Prenom            |
+|Email       |Email                 |Email                | Email              |Email         |Email             |
+|telephone   |telephone             |thelephone           |thelephone          |thelephone    |thelephone        |
+|Password    |Password              |Password             | Password           |Password      |Password          |
+|------------|----------------------|---------------------|--------------------|--------------|------------------|
+|Abonnemet...|Chef de Produit...*   |Superviseur...*      |Delegue....*        |--------------|------------------|
+|------------|Superviseur...*       |Delegue....*         |Visiteur medical...*|--------------|------------------|
+|------------|Delegue...*           |Visiteur medical...* | ------------------ |--------------|------------------|
+|------------|Visiteur medical ...* |-------....*--       | ----------------   |--------------|------------------|
+|------------|----------------------|-------------------- |--------------------|--------------|------------------|
+|------------|Grossiste             |Grossiste            | Grossiste          |Grossiste     |Grossiste         |
+|------------|Pharmacie             |Pharmacie            |Pharmacie           | Pharmacie    |Pharmacie         |
+|------------|Medecin               | Medecin             |Medecin             |Medecin       |Medecin           |
+|------------|----------------------|-------------------- |--------------------|--------------|------------------|
+|------------|produit               |produit              |produit             |produit       |produit           |
+|------------|----------------------|-------------------- |--------------------|--------------|------------------|
 
 ## visite
 - type visite (visite chez doctor)
