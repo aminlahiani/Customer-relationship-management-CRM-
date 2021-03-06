@@ -34,6 +34,23 @@
 |------------|produit               |produit              |produit             |produit       |produit           |
 |------------|----------------------|-------------------- |--------------------|--------------|------------------|
 
+---------------------------
+# 📋 Abonnement
+
+- [Registre de commerce](#)
+- [Raison Sosial](#)
+- [logo](#)
+- [numero telephone](#)
+- [Email](#)
+- [date debut](#)
+- [date  fin](#)
+- [etat](#)
+- [Directeur marketing](#)
+- [nombre d'utilisateur](#)
+
+--------------------------------------------------------
+
+
 ## visite
 - type visite (visite chez doctor)
 - product[..]
@@ -69,22 +86,7 @@ chef produit && directeur marketing
 all voir client
 
 chef voir all produit   => superviseur =>  deligue
- ---------------------------
-# 📋 Abonnement
-
-- [Registre de commerce](#)
-- [Raison Sosial](#)
-- [logo](#)
-- [numero telephone](#)
-- [Email](#)
-- [date debut](#)
-- [date  fin](#)
-- [etat](#)
-- [Directeur marketing](#)
-- [nombre d'utilisateur](#)
-
---------------------------------------------------------
-
+ 
 # Client 👨🏽‍👩🏽‍👧🏽‍👦🏽
 
 ## 👨‍👨‍👦‍👦 Grossiste  💊 Pharmacie  👨‍⚕️ Medecin 
