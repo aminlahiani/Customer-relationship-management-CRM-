@@ -13,7 +13,7 @@
 |Email       |Email                 |Email               | Email              |Email         |Email             |
 |telephone   |telephone             |thelephone          |thelephone          |thelephone    |thelephone        |
 |Password    |Password              |Password            | Password           |Password      |Password          |
-|------------|----------------------------------------------------------------|--------------|------------------|
+|------------|----------------------|--------------------|--------------------|--------------|------------------|
 |Abonnemet...|Chef de Produit...*   |Superviseur...*     |Delegue....*        |--------------|------------------|
 |------------|Superviseur...*       |Delegue....*        |Visiteur medical...*|--------------|------------------|
 |------------|Delegue...*           |Visiteur medical...*| ------------------ |--------------|------------------|
