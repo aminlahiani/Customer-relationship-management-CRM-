@@ -122,16 +122,17 @@
 
 ## 👨‍👨‍👦‍👦 Medecin  
 
-| Medecin                  | pharmacien       |prepateur principal id |Personel   |
-| -------------------------|------------------|-----------------------|-----------|
-|medcin id                 | Nom              |Nom                    |Nom        |
-| Email                    |Prenom            |Prenom                 |prenom     |
-|adresse                   |Email             |Email                  |Email      |
-|adresse                   |telephone         |telephone              |telephone  |
-|secritaireid id           |----------------- |-----------------------|-----------|
-|latitude                  |------------------|-----------------------|-----------|
-|longitude                 |------------------|-----------------------|-----------|
-|--------------------------|------------------|-----------------------|-----------|
+| Medecin                  | medcinid             |secritaire |
+| -------------------------|----------------------|-----------|
+|medcin id                 | Nom                  |Nom        |
+| Email                    |Prenom                |Prenom     |
+|adresse                   |Email                 |Email      |
+|adresse                   |telephone             |telephone  |
+|secritaireid id           |specialité-------- -  |-----------|
+|latitude                  |etablisement de travai|-----------|
+|longitude                 |----------------------|-----------|
+|--------------------------|----------------------|-----------|
+
 
 - [medcinid](#)
 - [Email](#)
