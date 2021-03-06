@@ -1,14 +1,14 @@
 # Customer-relationship-management-CRM
 
-### Users 👨🏽‍👩🏽‍👧🏽‍👦🏽
+# Users 👨🏽‍👩🏽‍👧🏽‍👦🏽 :
 
 
  # 🤴 Admin   
 
  # 👨‍🦳 Directeur marketing    
 
- #  👨‍🦳 chef produit 
- 
+ ##  👨‍🦳 chef produit 
+
  ##  👨‍🦱 Superviseur 
 
  ### 👨‍🦲 Delegue    👨‍🦲  visiteur medical
