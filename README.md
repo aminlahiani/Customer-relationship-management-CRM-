@@ -127,6 +127,8 @@
 |medcin id                 | Nom                  |Nom        |
 | Email                    |Prenom                |Prenom     |
 |adresse                   |Email                 |Email      |
+|medical evet              |                      |           |
+|publication               |                      |           |
 |adresse                   |telephone             |telephone  |
 |secritaireid id           |specialité-------- -  |-----------|
 |latitude                  |etablisement de travai|-----------|
@@ -345,6 +347,111 @@ chef voir all produit   => superviseur =>  deligue
 
 
 
+superviseur create  plannig del semaine to deligue or visiteur (5j)  : 
+
+
+clientid :
+
+date :
+ 
+
+
+employee (deligue &  visiteur ):
+
+echantion :
+
+
+superviseur create info pack  : 
 
 
 
+
+
+
+
+table objectif de la semaine : 
+
+objectif a realiséé :
+
+employee (deligue &  visiteur ):
+
+bisgét : 
+
+
+chef  create  plannig period superviseur ()  : 
+
+
+
+
+periode (flexible : 1 mois ) :
+ 
+ objectif a realiséé :
+
+superviseur id  :
+
+
+bisgét : 
+
+
+
+
+
+
+
+
+
+
+
+objectif 
+
+
+objectif a realiséé :
+
+ {
+     product 
+     numbre a vente
+     bisgét : 
+ }
+
+employee (deligue &  visiteur ):
+
+bisgét : 
+
+
+planning
+
+
+
+...
+
+
+rapport : 
+
+position  ( de visite )
+
+photo de facture (bisgét)
+
+
+commandeid 
+
+
+
+
+----------
+
+
+commande :
+
+idprodut
+
+quantité
+
+
+
+
+
+
+
+
+
+https://nextjuggernaut.com/
