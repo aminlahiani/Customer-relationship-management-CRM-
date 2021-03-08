@@ -459,7 +459,7 @@ https://nextjuggernaut.com/
 
 
 
-
+                                   |-----------| 
                                    |    Admin  |
                                    |-----------|
                                    |nom        |
@@ -468,7 +468,7 @@ https://nextjuggernaut.com/
                                    |email      |
                                    |password   |
                                    |-----------|
-                                           |
+                                         |
                                |----------------------|
                                |      Abonnemet       |
                                |----------------------|
@@ -482,6 +482,57 @@ https://nextjuggernaut.com/
                                |etat                  |
                                |nombre d'utilisateur  |
                                |----------------------|
+                                         |
+                               |----------------------| 
+                               | Directeur marketing  |
+                               |----------------------|
+                               |nom                   |
+                               |prenom                |
+                               |logo                  |
+                               |email                 |
+                               |password              |
+                               |----------------------|
+                                          |
+                                   |-------------| 
+                                   |chef produit |
+                                   |-----------  |
+                                   |nom          |
+                                   |prenom       |
+                                   |logo         |
+                                   |email        |
+                                   |password     |
+                                   |-----------  |
+                                         |
+                                   |Superviseur  |
+                                   |-----------  |
+                                   |nom          |
+                                   |prenom       |
+                                   |logo         |
+                                   |email        |
+                                   |password     |
+                                   |-------------|
+                                   |             |
+                               ----|             |----
+                               |                     |
+                               |                     |
+                         |-----------|        |------------------| 
+                         |    Admin  |        | visiteur medical |
+                         |-----------|        |------------------|
+                         |nom        |        |Nom               |
+                         |prenom     |        |Prenom            |
+                         |logo       |        |Email             |
+                         |email      |        |thelephone        |
+                         |password   |        |Password          |
+                         |-----------|        |------------------|
+
+
+| Admin      |  Directeur marketing | chef produit        |  Superviseur       |Delegue       | visiteur medical |
+| Nom        | Nom                  |Nom                  |Nom                 | Nom          |Nom               |
+|Prenom      |Prenom                |Prenom               | Prenom             |Prenom        |Prenom            |
+|Email       |Email                 |Email                | Email              |Email         |Email             |
+|telephone   |telephone             |thelephone           |thelephone          |thelephone    |thelephone        |
+|Password    |Password              |Password             | Password           |Password      |Password          |
+
 
 - [Registre de commerce](#)
 - [Raison Sosial](#)
