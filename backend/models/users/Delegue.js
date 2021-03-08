@@ -17,7 +17,16 @@ const DelegueSchema = new Schema(
       type: String,
       required: true,
     },
+    isemailverife: {
+      type: Boolean,
+      required: true,
+      default: false,
+    },
     password: {
+      type: String,
+      required: true,
+    },
+    telephone: {
       type: String,
       required: true,
     },
@@ -25,12 +34,11 @@ const DelegueSchema = new Schema(
       type: String,
       required: true,
     },
-    createdby: { type: mongoose.Types.ObjectId, ref: "Gerant" },
-    superviseur: {
-      type: mongoose.Types.ObjectId,
-      ref: "Superviseur",
-      default: null,
-    },
+    createdby : { type: {type: String, required: true}, _id: {type: String, required: true} },
+    superviseurid : { type: mongoose.Types.ObjectId, ref: "Superviseur" },
+    abonnementId: { type: mongoose.Types.ObjectId, ref: "Abonnement" },
+
+
   },
   { timestamps: true }
 );

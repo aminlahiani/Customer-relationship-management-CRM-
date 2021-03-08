@@ -526,12 +526,7 @@ https://nextjuggernaut.com/
                          |-----------|        |------------------|
 
 
-| Admin      |  Directeur marketing | chef produit        |  Superviseur       |Delegue       | visiteur medical |
-| Nom        | Nom                  |Nom                  |Nom                 | Nom          |Nom               |
-|Prenom      |Prenom                |Prenom               | Prenom             |Prenom        |Prenom            |
-|Email       |Email                 |Email                | Email              |Email         |Email             |
-|telephone   |telephone             |thelephone           |thelephone          |thelephone    |thelephone        |
-|Password    |Password              |Password             | Password           |Password      |Password          |
+
 
 
 - [Registre de commerce](#)

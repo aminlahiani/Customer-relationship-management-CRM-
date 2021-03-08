@@ -35,10 +35,8 @@ const abonnementSchema = new Schema(
       type: String,
       required: true,
     },
-    users: {
-      type: String,
-      required: true,
-    },
+    users: [  String  ]
+    ,
     DirecteurId: { type: mongoose.Types.ObjectId, ref: "Directeur" },
   },
   {

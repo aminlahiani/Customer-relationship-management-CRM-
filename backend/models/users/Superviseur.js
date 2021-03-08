@@ -21,12 +21,28 @@ const SuperviseurSchema = new Schema(
             type: String,
             required: true,
         },
-        role: {
+        telephone: {
             type: String,
             required: true,
-        },
-        createdby: { type: mongoose.Types.ObjectId, ref: "Gerant" },
-        delegue: [{ type: mongoose.Types.ObjectId, ref: "Delegue" }]
+          },
+          isemailverife: {
+            type: Boolean,
+            required: true,
+            default: false,
+          },
+          role: {
+            type: String,
+            required: true,
+          },
+         
+          createdby : { type: {type: String, required: true}, _id: {type: String, required: true} },
+      
+          abonnementId: { type: mongoose.Types.ObjectId, ref: "Abonnement" },
+          
+          chefid:  { type: mongoose.Types.ObjectId, ref: "Chef" },
+     
+          delegue: [{ type: mongoose.Types.ObjectId, ref: "Delegue" }],
+          visiteurs: [{ type: mongoose.Types.ObjectId, ref: "Visiteur" }],
     },
     { timestamps: true }
 );

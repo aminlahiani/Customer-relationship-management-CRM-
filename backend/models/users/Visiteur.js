@@ -25,12 +25,14 @@ const VisiteurSchema = new Schema(
       type: String,
       required: true,
     },
-    createdby: { type: mongoose.Types.ObjectId, ref: "Gerant" },
-    superviseur: {
-      type: mongoose.Types.ObjectId,
-      ref: "Superviseur",
-      default: null,
+    telephone: {
+      type: String,
+      required: true,
     },
+
+    createdby : { type: {type: String, required: true}, _id: {type: String, required: true} },
+    superviseurid : { type: mongoose.Types.ObjectId, ref: "Superviseur" },
+    abonnementId: { type: mongoose.Types.ObjectId, ref: "Abonnement" },
   },
   { timestamps: true }
 );

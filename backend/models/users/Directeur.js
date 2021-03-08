@@ -21,12 +21,24 @@ const DirecteurSchema = new Schema(
             type: String,
             required: true,
         },
+        telephone : {
+            type: String,
+            required: true,
+        },
+        isemailverife : {
+            type: Boolean,
+            required: true,
+            default : false
+        },
         role: {
             type: String,
             required: true,
         },
-        createdby: { type: mongoose.Types.ObjectId, ref: "Gerant" },
-        delegue: [{ type: mongoose.Types.ObjectId, ref: "Delegue" }]
+        abonnementId: { type: mongoose.Types.ObjectId, ref: "Abonnement" },
+        chefs : [{ type: mongoose.Types.ObjectId, ref: "Delegue" }],
+        superviseurs : [{ type: mongoose.Types.ObjectId, ref: "Superviseur" }],
+        delegue: [{ type: mongoose.Types.ObjectId, ref: "Delegue" }],
+        visiteurs : [{ type: mongoose.Types.ObjectId, ref: "Visiteur" }],
     },
     { timestamps: true }
 );

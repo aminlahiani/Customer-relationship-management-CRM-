@@ -21,16 +21,26 @@ const ChefSchema = new Schema(
       type: String,
       required: true,
     },
+    telephone: {
+      type: String,
+      required: true,
+    },
+    isemailverife: {
+      type: Boolean,
+      required: true,
+      default: false,
+    },
     role: {
       type: String,
       required: true,
     },
-    createdby: { type: mongoose.Types.ObjectId, ref: "Gerant" },
-    superviseur: {
-      type: mongoose.Types.ObjectId,
-      ref: "Superviseur",
-      default: null,
-    },
+    createdby : { type: {type: String, required: true}, _id: {type: String, required: true} },
+
+    abonnementId: { type: mongoose.Types.ObjectId, ref: "Abonnement" },
+
+    superviseurs: [{ type: mongoose.Types.ObjectId, ref: "Superviseur" }],
+    delegue: [{ type: mongoose.Types.ObjectId, ref: "Delegue" }],
+    visiteurs: [{ type: mongoose.Types.ObjectId, ref: "Visiteur" }],
   },
   { timestamps: true }
 );
