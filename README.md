@@ -58,7 +58,7 @@
 
 ### 👨‍👨‍👦‍👦 Grossiste 
 
-| Grossiste                | responsble achat |  responsble achat     |gerant     |
+| Grossiste                | responsble achat | responsble de payment |gerant     |
 | -------------------------|------------------|-----------------------|-----------|
 | Registre de commerce     | Nom              |Nom                    |Nom        |
 | Raison Sosial            |Prenom            |Prenom                 |prenom     |
