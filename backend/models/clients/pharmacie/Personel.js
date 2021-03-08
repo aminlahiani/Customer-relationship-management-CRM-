@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 
-const PreparateurPrincipalSchema = new Schema(
+const PersonelSchema = new Schema(
   {
    
     nom    : {   
@@ -28,6 +28,6 @@ const PreparateurPrincipalSchema = new Schema(
 );
 
 
-const PreparateurPrincipal = mongoose.model("PreparateurPrincipal", PreparateurPrincipalSchema);
+const Personel = mongoose.model("Personel", PersonelSchema);
 
-module.exports = PreparateurPrincipal ;
+module.exports = Personel ;
