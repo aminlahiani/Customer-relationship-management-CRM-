@@ -5,11 +5,11 @@ const Schema = mongoose.Schema;
 
 const GrossisteSchema = new Schema(
   {
-    nom: {
+    registre_de_commerce : {
       type: String,
       required: true,
     },
-    prenom    : {   
+    raison_sosial    : {   
         type: String,
         required: true,
       },
@@ -17,10 +17,17 @@ const GrossisteSchema = new Schema(
       type: String,
       required: true,
     },
-    
     adresse : {
       type: String,
       required: true,
+    },
+    latitude :{
+        type: String,
+        required: true,
+    },
+    longitude : {
+        type: String,
+        required: true,
     },
     GerantId : { type: mongoose.Types.ObjectId, ref: "Gerant" },
     responsble_achatId :{ type: mongoose.Types.ObjectId, ref: "ResponsbleAchat" },
