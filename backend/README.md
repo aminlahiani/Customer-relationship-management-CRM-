@@ -44,23 +44,23 @@ Authentification
 
 Profil 
 
-pull request Crud Superviseur
+ Crud Superviseur (demande)
 
-pull request Crud Delegue
+Crud Delegue (demande)
 
-pull request Crud Visiteur
+Crud Visiteur (demande)
 
 ----------------
+ 
+ Crud Grossiste (demande)
 
-pull request Crud Grossiste
+ Crud pharmacie (demande)
 
-pull request Crud pharmacie
-
-pull request Crud Medecin
+ Crud Medecin  (demande)
 
 ---------------------
 
-pull request Crud Product
+ Crud Product (demande)
 
 # Superviseur : 
 
@@ -68,22 +68,22 @@ Authentification
 
 Profil 
 
-pull request Crud Delegue
+ Crud Delegue (demande)
 
-pull request Crud Visiteur
+ Crud Visiteur (demande)
 
 -------------------------------
 
 
-pull request Crud Grossiste
+ Crud Grossiste (demande)
 
-pull request Crud pharmacie
+ Crud pharmacie (demande)
 
-pull request Crud Medecin
+ Crud Medecin (demande)
 
 ---------------------
 
-pull request Crud Product
+ Crud Product  (demande)
 
 # Delegue : 
 
@@ -93,15 +93,15 @@ Profil
 
 --------------------
 
-pull request Crud Grossiste
+Crud Grossiste  (demande)
 
-pull request Crud pharmacie
+ Crud pharmacie (demande)
 
-pull request Crud Medecin
+Crud Medecin  (demande)
 
 ---------------------
 
-pull request Crud Product
+ Crud Product (demande)
 
 # Visiteur : 
 
@@ -111,15 +111,15 @@ Profil
 
 ------------------------
 
-pull request Crud Grossiste
+ Crud Grossiste (demande)
 
-pull request Crud pharmacie
+Crud pharmacie (demande)
 
-pull request Crud Medecin
+ Crud Medecin (demande)
 
 ---------------------
 
-pull request Crud Product
+Crud Product (demande)
 
 
 
