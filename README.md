@@ -14,6 +14,7 @@
  ### 👨‍🦲 Delegue    👨‍🦲  visiteur medical
 
 
+
 | Admin      |  Directeur marketing | chef produit        |  Superviseur       |Delegue       | visiteur medical |
 | -----------| ---------------------|-------------------- |--------------------|--------------|-------------------
 | Nom        | Nom                  |Nom                  |Nom                 | Nom          |Nom               |
@@ -455,3 +456,40 @@ quantité
 
 
 https://nextjuggernaut.com/
+
+
+
+
+                                   |    Admin  |
+                                   |-----------|
+                                   |nom        |
+                                   |prenom     |
+                                   |logo       |
+                                   |email      |
+                                   |password   |
+                                   |-----------|
+                                           |
+                               |----------------------|
+                               |      Abonnemet       |
+                               |----------------------|
+                               |Registre de commerce  |
+                               |Raison Sosial         |
+                               |logo                  |
+                               |email                 |
+                               |numero telephone      |
+                               |date debut            |
+                               |date  fin             |
+                               |etat                  |
+                               |nombre d'utilisateur  |
+                               |----------------------|
+
+- [Registre de commerce](#)
+- [Raison Sosial](#)
+- [logo](#)
+- [numero telephone](#)
+- [Email](#)
+- [date debut](#)
+- [date  fin](#)
+- [etat](#)
+- [Directeur marketing](#)
+- [nombre d'utilisateur](#)
