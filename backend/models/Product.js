@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 
-const PharmacieSchema = new Schema(
+const ProduitSchema = new Schema(
   {
     nom : {
       type: String,
@@ -13,7 +13,7 @@ const PharmacieSchema = new Schema(
         type: String,
         required: true,
       },
-    prixpharmacie: {
+     prixpharmacie: {
       type: String,
       required: true,
     },
@@ -31,6 +31,6 @@ const PharmacieSchema = new Schema(
 );
 
 
-const Pharmacie = mongoose.model("Pharmacie", PharmacieSchema);
+const Product = mongoose.model("Product", ProduitSchema);
 
-module.exports = Pharmacie ;
+module.exports = Product ;
