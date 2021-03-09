@@ -3,25 +3,25 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 
-const ProduitSchema = new Schema(
+const ObjectifSchema = new Schema(
   {
-    nom : {
+    objectif : {
       type: String,
       required: true,
     },
-    prixgrosiste    : {   
+    usersid    : {   
         type: String,
         required: true,
       },
-     prixpharmacie: {
+     budjet: {
       type: String,
       required: true,
     },
-    stock : {
+    produit : {
       type: String,
       required: true,
     },
-    fichedeproduit :{
+    qty :{
         type: String,
         required: true,
     },
@@ -31,6 +31,6 @@ const ProduitSchema = new Schema(
 );
 
 
-const Product = mongoose.model("Product", ProduitSchema);
+const Objectif = mongoose.model("Objectif", ObjectifSchema);
 
-module.exports = Product ;
+module.exports = Objectif ;
